@@ -63,7 +63,7 @@ main {
   padding: 50px 20px;
 }
 main .content {
-  margin: 20px auto 64px auto;
+  margin: 10px auto 64px auto;
 }
 main .content h2 {
   color: var(--very-dark-blue);
