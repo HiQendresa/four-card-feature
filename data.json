@@ -1,0 +1,26 @@
+[
+    {
+        "color": "#44D3D2",
+        "title": "Supervisor",
+        "description": "Monitors activity to identify project roadblocks",
+        "image": "./images/icon-supervisor.svg"
+    },
+    {
+        "color": "#EA5454",
+        "title": "Team Builder",
+        "description": "Scans our talent network to create the optimal team for your project",
+        "image": "./images/icon-team-builder.svg"
+    },
+    {
+        "color": "#FCAE4A",
+        "title": "Karma",
+        "description": "Uses data from past projects to provide better delivery estimates",
+        "image": "./images/icon-karma.svg"
+    },
+    {
+        "color": "#549EF2",
+        "title": "Calculator",
+        "description": "Uses data from past projects to provide better delivery estimates",
+        "image": "./images/icon-calculator.svg"
+    }
+]
